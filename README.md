@@ -7,4 +7,9 @@ To install dependencies, run:
 
 To sort movies from the provided API, run:
 
-    $ rake
+    $ rake actors
+
+
+To run the test suite:
+
+    $ rake spec
